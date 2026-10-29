@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/cache/
+archive/
+mysql/
+*.egg-info/
+.pytest_cache/
+.claude/
+Data_Engineering_Take_Home_Assignment.pdf
